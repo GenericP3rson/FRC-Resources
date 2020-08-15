@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - "General":
     - Overview: frc/frc.md
+    - "General Resources": frc/general_resources.md
   - Hardware:
     - "How to Use a Drill": hardware/drill.md
   - Software:
