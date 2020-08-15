@@ -2,7 +2,7 @@ site_name: Keystone's FRC Resources
 
 nav:
   - Home: index.md
-  - "General FRC":
+  - "General":
     - Overview: frc/frc.md
   - Hardware:
     - "How to Use a Drill": hardware/drill.md
@@ -12,4 +12,4 @@ nav:
     - "Components": electronics/parts.md
 
 theme:
-  name: material
+  name: simplex
