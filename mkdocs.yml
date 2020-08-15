@@ -12,4 +12,4 @@ nav:
     - "Components": electronics/parts.md
 
 theme:
-  name: simplex
+  name: slate
