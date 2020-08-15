@@ -1,0 +1,15 @@
+site_name: Keystone's FRC Resources
+
+nav:
+  - Home: index.md
+  - "General FRC":
+    - Overview: frc/frc.md
+  - Hardware:
+    - "How to Use a Drill": hardware/drill.md
+  - Software:
+    - "Java Basics": software/basics.md
+  - Electronics:
+    - "Components": electronics/parts.md
+
+theme:
+  name: material
